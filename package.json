@@ -1,0 +1,31 @@
+{
+  "name": "namasthe react",
+  "version": "1.0.0",
+  "description": "learning react zero to hero",
+  "scripts": {
+    "test": "vite",
+    "start": "npx parcel index.html",
+    "build" : "npx parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usssreddy/namasthe-react.git"
+  },
+  "author": "siva sankar reddy uppaluru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usssreddy/namasthe-react/issues"
+  },
+  "homepage": "https://github.com/usssreddy/namasthe-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+
+  "browserslist" :[  "last 2 versions" ]
+   
+
+}
